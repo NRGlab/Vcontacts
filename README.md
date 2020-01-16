@@ -1,6 +1,6 @@
 # Vcontacts
 
-Commandline tool to compute surface areas in contact using the constrained voronoi procedure from the paper: Quantification of protein surfaces, volumes and atom-atom contacts using a constrained Voronoi procedure. (doi: 10.1093/bioinformatics/18.10.1365)
+Commandline tool to compute surface areas in contact using the constrained Voronoi procedure from the paper: Quantification of protein surfaces, volumes and atom-atom contacts using a constrained Voronoi procedure. (doi: 10.1093/bioinformatics/18.10.1365)
 
 To compile:
 
