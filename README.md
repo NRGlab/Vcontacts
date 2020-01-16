@@ -4,6 +4,7 @@ Commandline tool to compute surface areas in contact using the constrained voron
 
 To compile:
 gcc -c Vcontacts-v1-2.c
+
 gcc Vcontacts-v1-2.o -o vcontacts
 
 To run:
