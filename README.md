@@ -12,3 +12,9 @@ gcc Vcontacts-v1-2.o -o vcontacts
 To run:
 
 ./vcontacts yourpdbfile.pdb
+
+To analyze:
+
+Vcont.pl a wrapper to make using Vcontacs more user friendly
+
+perl vcont.pl -h # usage of the script
